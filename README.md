@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋, I'm Abdallah Rady
 
-<!--
-**Abdallah-Rady/Abdallah-Rady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst & Business Intelligence Developer** specializing in SQL Server, Python, Power BI, and Advanced DAX modeling.
 
-Here are some ideas to get you started:
+- 💼 Currently working on enterprise-grade analytics pipelines and dashboards.
+- 🛠️ **Tech Stack:** SQL Server, Power BI, Tableau, Python (Pandas/NumPy), Advanced Excel, n8n.
+- 📫 Reach me at: a.radyy960@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Skillset & Tools
+
+* **Databases & Querying:** SQL Server, T-SQL, Star Schema Design, Data Warehousing.
+* **Business Intelligence:** Power BI (DAX, Power Query), Tableau, Interactive Dashboards.
+* **Programming & Automation:** Python (Pandas, NumPy), n8n Workflow Automation.
+* **Spreadsheets & Analysis:** Advanced Excel (Financial Modeling, Pivot Tables, Scenario Analysis).
