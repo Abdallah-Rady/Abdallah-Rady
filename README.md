@@ -5,7 +5,7 @@
 - 💼 Currently working on enterprise-grade analytics pipelines and dashboards.
 - 🛠️ **Tech Stack:** SQL Server, Power BI, Tableau, Python (Pandas/NumPy), Advanced Excel, n8n.
 - 📫 Reach me at: a.radyy960@gmail.com
-
+- Phone Number:+201096043027
 ---
 
 ### 🛠️ Technical Skillset & Tools
